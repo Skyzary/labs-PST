@@ -1,0 +1,10 @@
+{
+  "total": 5,
+  "valid": 3,
+  "invalid_rows": [
+    3,
+    4
+  ],
+  "average": 64.0,
+  "passed": 2
+}
